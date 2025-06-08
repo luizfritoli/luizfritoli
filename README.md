@@ -2,7 +2,7 @@
 
 **Desenvolvedor front-end**
 
-Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espírito Santo. Paralelamente ao ensino médio, concluí o curso de técnico em informática. Nos dias de hoje, curso Engenharia de Software na Uniasselvi. Desde pequeno estou no mundo dos computadores, onde passei a vida toda aprendendo a maior parte do que sei hoje, desta forma criei uma paixão por computadores, o que me fez entrar na programação. 
+Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espírito Santo. Paralelamente ao ensino médio, concluí o curso de técnico em informática. Nos dias de hoje, curso Engenharia de Software na Uniasselvi. Desde pequeno estou no mundo dos computadores, onde passei a vida toda aprendendo a maior parte do que sei hoje, desta forma criei uma paixão por computadores, o que me fez entrar na programação. 🖥️​
 
 <p align="left">
     <a href="https://github.com/luizfritoli?tab=repositories&sort=stargazers">
