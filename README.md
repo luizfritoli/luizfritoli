@@ -51,6 +51,14 @@ Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espír
 />
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeSCript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
