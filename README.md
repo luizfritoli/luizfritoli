@@ -26,22 +26,19 @@ Sou estudante de Engenharia de Software pela Uniaselvi, atualmente no 3° perío
 ### Linguagens e Tecnologias
 
 **Desenvolvimento & Design**
+<br />
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Dados & Backend**
+<br />
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 <br>
+
 ### Estatísticas
 
-<img src="https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" />
+<img align="left" height="180" src="https://github-readme-stats-git-masterrstniccc.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfritoli&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400&v=1" 
-/>
+<img align="left" height="180" src="https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1800" />
