@@ -1,8 +1,8 @@
-# Olá, eu sou o Luiz Fritoli! 💢
+# Olá, eu sou o Luiz Fritoli.
 
-**Engenharia de Software**
+**Engenheiro de Software em formação**
 
-Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espírito Santo. Paralelamente ao ensino médio, concluí o curso de técnico em informática. Nos dias de hoje, curso Engenharia de Software na Uniasselvi. Desde pequeno estou no mundo dos computadores, onde passei a vida toda aprendendo a maior parte do que sei hoje, desta forma criei uma paixão por computadores, o que me fez entrar na programação. 🖥️​
+Sou estudante de Engenharia de Software pela Uniaselvi, atualmente no 3° período, e técnico em informática. Atualmente, realizo projetos utilizando as linguagens JavaScript para desenvolvimento e R para análise de dados, além de entendimento de banco de dados, como o MySQL. Foco em aprimorar meu nível técnico a cada dia para construir mais autonomia.​
 
 <p align="left">
     <a href="https://github.com/luizfritoli?tab=repositories&sort=stargazers">
@@ -23,24 +23,8 @@ Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espír
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -49,33 +33,42 @@ Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espír
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="TypeScript" 
-    title="TypeSCript"
+    alt="R" 
+    title="R"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="Tailwind CSS" 
+    title="Tailwind CSS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 
-<br/>
-<br/>
+<img 
+    align="left" 
+    alt="React.js" 
+    title="React.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
 ### 📊 Estatísticas
 
@@ -85,7 +78,7 @@ Me chamo Luiz Gustavo Barros Fritoli, tenho 18 anos e resido em Serra, no Espír
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="[https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br](https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&cache_seconds=1800)" 
   />
 
 <img 
