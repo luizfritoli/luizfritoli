@@ -2,7 +2,11 @@
 
 ## Desenvolvedor focado em aplicações web e análise de dados
 
-Atuo com JavaScript no desenvolvimento de interfaces modernas e utilizo R para análise de dados. Tenho base em banco de dados relacional com MySQL e foco constante em evolução técnica e autonomia profissional.​
+Atuo com JavaScript no desenvolvimento de interfaces modernas e utilizo R para análise de dados. Tenho base em banco de dados relacional com MySQL e foco constante em evolução técnica e autonomia profissional.
+
+## Onde me encontrar
+[LinkedIn](https://linkedin.com/in/luiz-fritoli) - Perfil profissional para atualizações de progressos.<br>
+[Instagram](http://instagram.com/luizgfritoli) - Perfil pessoal.​
 
 <p align="left">
     <a href="https://github.com/luizfritoli?tab=repositories&sort=stargazers">
