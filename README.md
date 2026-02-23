@@ -1,8 +1,8 @@
 # Olá, eu sou o Luiz Fritoli.
 
-**Engenheiro de Software em formação**
+## Desenvolvedor focado em aplicações web e análise de dados
 
-Sou estudante de Engenharia de Software pela Uniaselvi, atualmente no 3° período, e técnico em informática. Atualmente, realizo projetos utilizando as linguagens JavaScript para desenvolvimento e R para análise de dados, além de entendimento de banco de dados, como o MySQL. Foco em aprimorar meu nível técnico a cada dia para construir mais autonomia.​
+Atuo com JavaScript no desenvolvimento de interfaces modernas e utilizo R para análise de dados. Tenho base em banco de dados relacional com MySQL e foco constante em evolução técnica e autonomia profissional.​
 
 <p align="left">
     <a href="https://github.com/luizfritoli?tab=repositories&sort=stargazers">
