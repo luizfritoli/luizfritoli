@@ -37,18 +37,3 @@ Sou estudante de Engenharia de Software pela Uniaselvi, atualmente no 3° perío
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400&v=1" 
-/>
-
-
-
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfritoli&theme=tokyonight&layout=compact&langs_count=9&cache_seconds=86400&v=1" 
-/>
