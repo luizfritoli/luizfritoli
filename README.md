@@ -70,18 +70,18 @@ Sou estudante de Engenharia de Software pela Uniaselvi, atualmente no 3° perío
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <br>
-### 📊 Estatísticas
+### Estatísticas
 
 <img 
   align="left" 
   alt="GitHub Stats" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luizfritoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
 <img 
   align="left" 
   alt="Top Languages" 
   height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfritoli&theme=tokyonight&layout=compact&langs_count=9" 
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luizfritoli&theme=tokyonight&layout=compact&langs_count=9" 
 />
