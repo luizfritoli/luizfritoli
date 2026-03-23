@@ -41,3 +41,10 @@ Atuo R para análise de dados e geração de gráficos. Tenho base em banco de d
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
 
+**Estatísticas**
+<br />
+<p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizfritoli&theme=aura_dark" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfritoli&theme=aura_dark" width="60%" />
+</p>
+
