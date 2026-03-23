@@ -44,7 +44,7 @@ Atuo R para análise de dados e geração de gráficos. Tenho base em banco de d
 **Estatísticas**
 <br />
 <p>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizfritoli&theme=aura_dark" width="30%" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfritoli&theme=aura_dark" width="60%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizfritoli&theme=merko" width="30%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizfritoli&theme=merko" width="60%" />
 </p>
 
