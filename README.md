@@ -1,11 +1,11 @@
 # Olá, eu sou o Luiz Fritoli.
 
-## Desenvolvedor focado em aplicações web e análise de dados
+## Estudante de Engenharia de Software com foco em análise de dados
 
-Atuo com JavaScript no desenvolvimento de interfaces modernas e utilizo R para análise de dados. Tenho base em banco de dados relacional com MySQL e foco constante em evolução técnica e autonomia profissional.
+Atuo R para análise de dados e geração de gráficos. Tenho base em banco de dados relacional com MySQL e gosto de analisar dados diversos e contar sobre os resultados obtidos no estudo.
 
 ## Onde me encontrar
-[LinkedIn](https://linkedin.com/in/luiz-fritoli) - Perfil profissional para atualizações de progressos.<br>
+[LinkedIn](https://linkedin.com/in/luiz-fritoli) - Perfil profissional para atualizações de progresso.<br>
 [Instagram](http://instagram.com/luizgfritoli) - Perfil pessoal.​
 
 <p align="left">
